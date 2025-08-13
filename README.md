@@ -3,8 +3,14 @@ I just combined two great ideas together With the help of Claude.ai SideBySideMi
 **Idea**: [Istiak Alam] ** Coder**: [claude.ai]
 I'm not a Programmer neither a creative person. I just combined two great ideas together With the help of Claude.ai
 
+
+
+# Light Mode
 ![Screenshot](Light%20Mode.png)
-![Screenshot]([Dark%20Mode.png)
+
+
+# Dark Mode
+![Screenshot](Dark%20Mode.png)
 
 
 # Down Aero theme for Windows 11 Start Menu Styler
